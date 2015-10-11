@@ -1,0 +1,21 @@
+.form-control {
+	position: relative;
+	text-align: left;
+}
+
+.names {
+	position: relative;
+	text-align: center;
+
+}
+
+.forms {
+	border-style: solid;
+	border-width: 2px;
+	border-color: #1c1c1c;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	width: 150px;
+
+
+}
